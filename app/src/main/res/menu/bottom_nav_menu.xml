@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/question1Fragment"
+        android:icon="@drawable/ic_baseline_question_answer_24"
+        android:title="Question 1" />
+    <item
+        android:id="@+id/question2Fragment"
+        android:icon="@drawable/ic_baseline_question_answer_24"
+        android:title="Question 2" />
+    <item
+        android:id="@+id/question3Fragment"
+        android:icon="@drawable/ic_baseline_question_answer_24"
+        android:title="Question 3" />
+</menu>
